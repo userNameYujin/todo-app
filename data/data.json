@@ -1,0 +1,16 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "inputText": "some comment"
+    },
+    {
+      "id": 2,
+      "inputText": "some comment"
+    },
+    {
+      "id": 3,
+      "inputText": "some comment"
+    }
+  ]
+}
